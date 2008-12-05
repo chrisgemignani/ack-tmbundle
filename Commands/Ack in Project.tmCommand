@@ -13,7 +13,7 @@ end</string>
 	<key>input</key>
 	<string>none</string>
 	<key>keyEquivalent</key>
-	<string>@A</string>
+	<string>@F</string>
 	<key>name</key>
 	<string>Ack in Project</string>
 	<key>output</key>
